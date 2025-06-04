@@ -2,6 +2,9 @@
 ## By Robert L. Norwood
 A simple, responsive HTML/CSS layout showcasing a tiered pricing table. Ideal for SaaS applications, subscription services, or any product offering multiple pricing plans.
 
+## Live Demo
+Check out a live demo of the app here: https://rleenrwd.github.io/Price-Tier-Sample/
+
 ## 🔧 Features
 Clean and Minimal Design – Designed with clarity and user experience in mind.
 
